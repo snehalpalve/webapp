@@ -38,5 +38,3 @@ steps:
   inputs:
     targetPath: '$(Build.ArtifactStagingDirectory)'
     artifactName: 'webapp-artifact'
-    
-    XYZ
